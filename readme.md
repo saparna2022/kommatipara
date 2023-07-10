@@ -1,7 +1,7 @@
 # README
 
 ## Description
-This code is written in a Jupyter Notebook and is primarily focused on processing and manipulating datasets using PySpark, which is a Python library for big data processing. The code reads two CSV datasets, performs filtering, joins the datasets, renames columns, and selects specific columns. Additionally, it logs information about the execution and writes the log data to a CSV file.
+This code is written in a Notebook and is primarily focused on processing and manipulating datasets using PySpark, which is a Python library for big data processing. The code reads two CSV datasets, performs filtering, joins the datasets, renames columns, and selects specific columns. Additionally, it logs information about the execution and writes the log data to a CSV file.
 
 ## Dependencies
 To run this code, you need to have the following dependencies installed:
